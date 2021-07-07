@@ -1,0 +1,26 @@
+
+
+.board-title{
+    margin-bottom: 10px;
+}
+
+.board-title:before{
+    content: " ";
+    display: inline-block;
+    width: 10px;
+    height: 16px;
+    margin-right: 5px;
+    background: url(
+        http://www.kiweb.or.kr/images/common/icon_title.gif
+    ) top center no-repeat;
+}
+
+.board-div{
+    border-top: 1px solid #006cdc;
+    vertical-align: top;
+    display: block;
+}
+
+.board-title{
+    
+}
